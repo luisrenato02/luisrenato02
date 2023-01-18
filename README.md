@@ -7,3 +7,4 @@
     <img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,git,github,gitlab,postgres,php,bootstrap" />
   </a>
 </p>
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,git,github)](https://skillicons.dev)
