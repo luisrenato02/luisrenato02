@@ -4,6 +4,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=postgres,php,bootstrap,html,css,js,git,github](https://skillicons.dev/icons?i=react,typescript,html,css,js,git,github,gitlab,postgres,php,bootstrap)" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,git,github,gitlab,postgres,php,bootstrap" />
   </a>
 </p>
