@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,git,github,gitlab,postgres,php,bootstrap" />
+    <img src="(https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,git,github)](https://skillicons.dev)" />
   </a>
 </p>
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,git,github)](https://skillicons.dev)
+[![Minhas Habilidades]
