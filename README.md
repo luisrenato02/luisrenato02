@@ -1,17 +1,13 @@
 # Olá, sou Luis Renato! 🚀
- Tenho 21 anos e atualmente trabalho na Infoluck Sistemas, sou apaixonado por código limpo, inovação e tecnologia. Formado em Análise e Desenvolvimento de Sistemas em 2022 pela Universidade São Francisco (USF). 
-
-
-<div align="center"  style="display: block; width: 100%">
-  <a href="https://github.com/luisrenato02">
-    <img  height="500" src="https://avatars.githubusercontent.com/u/89888509?v=4"/>
-</div>
 <p align="center">
   <em>Desenvolvedor Front-end Jr</em>
 </p>
-    
-  
 
+ # 👩🏾‍💻 &nbsp;Sobre mim
+ Tenho 21 anos e atualmente trabalho na Infoluck Sistemas, sou apaixonado por código limpo, inovação e tecnologia. Formado em Análise e Desenvolvimento de Sistemas em 2022 pela Universidade São Francisco (USF). 
+
+
+# 🛠 &nbsp;Caixa de ferramentas
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -26,15 +22,25 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
 
-## Estatísticas do GitHub 📊
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luisrenato02&count_private=true&show_icons=true&theme=dark)
+# 📊 &nbsp;Estatísticas do GitHub 
+<p align="center">
+<a href="https://github.com/frontfabi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luisrenato02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luisrenato02&layout=compact&langs_count=8&theme=radical"/>
+</aluisrenato02
+</p>
 
-## Quer me conhecer melhor? 👋
+
+# 🤝🏻 &nbsp;Que me conhecer melhor:
 
 Você pode me encontrar em:
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- [E-mail](mailto:seu-email@example.com)
-- [Instagram](https://www.instagram.com/seu-instagram)
+
+<div> 
+ 
+  <a href="https://instagram.com/luistoniatisb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luis-renato-toniati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 <!-- Fim -->
