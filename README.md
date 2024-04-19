@@ -4,7 +4,7 @@
 </p>
 
  # 👩🏾‍💻 &nbsp;Sobre mim
- Tenho 21 anos e atualmente trabalho na Infoluck Sistemas, sou apaixonado por código limpo, inovação e tecnologia. Formado em Análise e Desenvolvimento de Sistemas em 2022 pela Universidade São Francisco (USF). 
+ Tenho 22 anos e atualmente trabalho na Infoluck Sistemas, sou apaixonado por código limpo, inovação e tecnologia. Formado em Análise e Desenvolvimento de Sistemas em 2022 pela Universidade São Francisco (USF). 
 
 
 # 🛠 &nbsp;Caixa de ferramentas
