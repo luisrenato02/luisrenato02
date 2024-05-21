@@ -32,7 +32,7 @@
 </p>
 
 
-# 🤝🏻 &nbsp;Que me conhecer melhor:
+# 🤝🏻 &nbsp;Quer me conhecer melhor?
 
 Você pode me encontrar em:
 
